@@ -1,0 +1,6 @@
+3 10 100# numNodes numMessages
+0 dc01 5724 # nodeID hostName l i s t e nPo r t
+1 dc21 9835
+2 dc22 5864
+#3 dc33 9253
+#4 dc01 7429
